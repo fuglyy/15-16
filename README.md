@@ -9,7 +9,6 @@
 
 ```shellscript
 git clone https://github.com/fuglyy/15-16.git
-cd имя-репозитория
 ```
 
 
@@ -23,7 +22,7 @@ npm install
 3. Запустите сервер:
 
 ```shellscript
-npm start
+node server.js
 ```
 
 
